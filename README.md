@@ -18,4 +18,6 @@ Anyway that's all I have to say, and the only reason it's public is so I can hos
 
 Game by CosmosBrains. 
 
+Ohh, and the font is Futured, obtained from [CoolText](https://cooltext.com/).
+
 
